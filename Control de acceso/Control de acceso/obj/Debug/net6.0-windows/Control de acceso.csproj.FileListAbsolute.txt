@@ -1,0 +1,19 @@
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\bin\Debug\net6.0-windows\Control de acceso.exe
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\bin\Debug\net6.0-windows\Control de acceso.deps.json
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\bin\Debug\net6.0-windows\Control de acceso.runtimeconfig.json
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\bin\Debug\net6.0-windows\Control de acceso.dll
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\bin\Debug\net6.0-windows\Control de acceso.pdb
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control de acceso.csproj.AssemblyReference.cache
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control_de_acceso.Form1.resources
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control_de_acceso.Properties.Resources.resources
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control de acceso.csproj.GenerateResource.cache
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control de acceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control de acceso.AssemblyInfoInputs.cache
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control de acceso.AssemblyInfo.cs
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control de acceso.csproj.CoreCompileInputs.cache
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control de acceso.dll
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\refint\Control de acceso.dll
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control de acceso.pdb
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control de acceso.genruntimeconfig.cache
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\ref\Control de acceso.dll
+C:\Users\austi\OneDrive\Desktop\Control de Acceso\Control de acceso\Control de acceso\obj\Debug\net6.0-windows\Control_de_acceso.Menu.resources
